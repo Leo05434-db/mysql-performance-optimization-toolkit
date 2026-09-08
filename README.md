@@ -37,7 +37,7 @@ The complete, fully formatted toolkit includes critical scripts to isolate missi
 *   **04_mysql_heavy_statement_tracker.sql:** Ranks top heavy query patterns by cumulative execution runtime.
 *   **Comprehensive Markdown Guide:** Step-by-step documentation for resolving performance metrics.
 
-👉 [Download the Full Production MySQL Toolkit on Gumroad for $39]([https://leonova027.gumroad.com/l/mysql-performance-toolkit])
+👉 [Download the Full Production MySQL Toolkit on Gumroad for $39](https://leonova027.gumroad.com/l/mysql-performance-toolkit)
 
 ---
 *Maintained by @Leo05434-db. Contact: leo05434@proton.me.*
